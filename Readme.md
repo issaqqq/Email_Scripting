@@ -162,11 +162,3 @@ This helps reduce the likelihood of triggering spam filters.
 This project is intended for educational and personal use. Always obtain permission before sending bulk emails and comply with Gmail's sending policies and applicable anti-spam regulations.
 
 ---
-
-## 👨‍💻 Author
-
-**John Doe**
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
